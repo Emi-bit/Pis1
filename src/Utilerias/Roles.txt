@@ -8,4 +8,7 @@ categoria:
  Video 1 
  Micro  2
  Opto   3
-
+Tarjetas gráficas  5
+Cables  6
+Memorias  7
+Convertidores  8
